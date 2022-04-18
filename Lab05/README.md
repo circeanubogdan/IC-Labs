@@ -1,4 +1,4 @@
-# Highway
+# src.main.java.Highway
 
 A small town lies along a portion of a long, scenic highway. (Think "Blue Ridge Mountain Parkway"). The town benefits significantly from the tourists who pass through along this road and who frequently stop to eat at the local restaurants, make purchases at the local stores, etc.
 
@@ -36,13 +36,13 @@ Output from this input would look like:
 
 # Running
 
-The `main` functions is in the class Highway, so the program, once
+The `main` functions is in the class src.main.java.Highway, so the program, once
 compiled, can be run as
 
-`java Highway` _path-to-test-data_
+`java src.main.java.Highway` _path-to-test-data_
 
 or
 
-`java Highway <` _path-to-test-data_
+`java src.main.java.Highway <` _path-to-test-data_
 
 Multiple test data files are available in the directory `testData/`.
